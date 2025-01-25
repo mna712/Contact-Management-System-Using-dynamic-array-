@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1730388264 source:d:\codes\the_final_project(finally)\src\address.cpp
+	"Address.h"
+	<string>
+	<iostream>
+	<iomanip>
+
+1730388264 d:\codes\the_final_project(finally)\include\address.h
+	<iomanip>
+	<string>
+
+1730573749 source:d:\codes\the_final_project(finally)\src\person.cpp
+	"person.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1730573749 d:\codes\the_final_project(finally)\include\person.h
+	<iomanip>
+	"address.h"
+	<string>
+
+1730351394 source:d:\codes\the_final_project(finally)\src\array.cpp
+	"Array.h"
+	"person.h"
+	"Address.h"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1730908984 d:\codes\the_final_project(finally)\include\array.h
+	<iomanip>
+	<iostream>
+	<string>
+	"Array.h"
+	"person.h"
+	"Address.h"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1730574499 source:d:\codes\the_final_project(finally)\main.cpp
+	"person.h"
+	"Address.h"
+	"Array.h"
+	<iostream>
+	<string>
+
